@@ -1,0 +1,11 @@
+.feature-item:hover {
+    .f-icon {
+        color: aliceblue;
+        transition-duration: 500ms;
+    }
+    .f-title{
+        color:aliceblue;
+        transition-duration: 500ms;
+    }
+    
+}
